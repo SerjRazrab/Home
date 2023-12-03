@@ -15,7 +15,6 @@
  dir
  ```
  Удаление в Windows
- ```sh
- del <filename
+```sh
+ del <filename>
  ```
- 
