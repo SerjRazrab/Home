@@ -1,0 +1,15 @@
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson1\c#4\bin\Debug\net6.0\c#4.exe
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson1\c#4\bin\Debug\net6.0\c#4.deps.json
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson1\c#4\bin\Debug\net6.0\c#4.runtimeconfig.json
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson1\c#4\bin\Debug\net6.0\c#4.dll
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson1\c#4\bin\Debug\net6.0\c#4.pdb
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson1\c#4\obj\Debug\net6.0\c#4.csproj.AssemblyReference.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson1\c#4\obj\Debug\net6.0\c#4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson1\c#4\obj\Debug\net6.0\c#4.AssemblyInfoInputs.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson1\c#4\obj\Debug\net6.0\c#4.AssemblyInfo.cs
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson1\c#4\obj\Debug\net6.0\c#4.csproj.CoreCompileInputs.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson1\c#4\obj\Debug\net6.0\c#4.dll
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson1\c#4\obj\Debug\net6.0\refint\c#4.dll
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson1\c#4\obj\Debug\net6.0\c#4.pdb
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson1\c#4\obj\Debug\net6.0\c#4.genruntimeconfig.cache
+C:\Users\Разраб Сергей\Desktop\GIT\Lesson1\c#4\obj\Debug\net6.0\ref\c#4.dll
